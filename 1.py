@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 13 09:19:17 2019
-
-@author: User
-"""
-
 import numpy as np
 import matplotlib.pyplot as pl
 u = [3,2,1,-1]
