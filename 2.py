@@ -4,7 +4,6 @@ import random as rn
 
 u = [2,1,-1]
 y = [3,2,1]
-z = []
 
 def q (teta):
     k=0
